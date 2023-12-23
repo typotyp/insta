@@ -8,7 +8,7 @@
 clear
 echo -e "\e[1;31m"
 
-xdg-open https://www.youtube.com/@MrIdealhatyt
+xdg-open https://www.youtube.com/
 
 echo -e "\e[0m"
 mv /data/data/com.termux/files/usr/etc/bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc_old
